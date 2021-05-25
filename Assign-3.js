@@ -1,3 +1,4 @@
+//3. Write the program to calculate GCD of two numbers.
 let x = 4;
 let y = 8;
 let i = 1;
