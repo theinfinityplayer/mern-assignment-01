@@ -1,3 +1,4 @@
+//program to reverser a number
 let a = 12345;
 let b=0;
 while(a>0)
