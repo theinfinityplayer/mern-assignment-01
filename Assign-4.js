@@ -1,3 +1,4 @@
+//Write a program to print even numbers after odd times jump.E.g: 2, 6, 14, 26, ...
 let a=2
 let b=1
 
